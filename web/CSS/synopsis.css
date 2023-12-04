@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* CSS Document */
+
+img{
+	display: block;
+}
+.s{
+	margin-top:20px;
+	margin-left: 20px;
+}
+.x{
+	margin-top:10px;
+	margin-left: 25px;
+}
+.y{
+	margin-top:20px;
+	margin-left: 20px;
+}
+#ctop{
+	background: white;
+	width: 867px;
+	height:70px;
+	float: left;
+}
+#cl{
+	background: white;
+	width: 280px;
+	height: 380px;
+	float: left;
+}
+#cm{
+	background: white;
+	width:280px;
+	font-size: 16px;
+	height:380px;
+	float: left;
+}
+#cm p{
+	margin-top: 8px;
+	margin-left: 20px;
+}
+#cr{
+	background: white;
+	width: 307px;
+	height: 380px;
+	font-size: 16px;
+	float: left;
+}
+#cr p{
+	margin-top: 8px;
+	margin-left: 10px;
+}
+#cm2{
+	background: white;
+	width: 867px;
+	height: 50px;
+	float: left;
+}
+#cb{
+	background: white;
+	width: 867px;
+	height: 200px;
+	font-size: 16px;
+	color:#2B98DD;
+	letter-spacing: 1px;
+	line-height: 22px;
+	text-indent:2em;
+	text-align: justify;
+	float: left;
+}
+#cb p{
+	margin-top: 20px;
+	margin-left: 40px;
+	margin-right: 40px;
+	
+	
+}

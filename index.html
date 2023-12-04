@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+/* CSS 用于确保视频全屏并且覆盖整个屏幕 */
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+}
+</style>
+</head>
+<body>
+
+<video autoplay muted id="myVideo">
+  <source src="images/start!.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+
+<script>
+// 获取视频元素
+var video = document.getElementById("myVideo");
+
+// 当视频播放完毕时执行函数
+video.onended = function() {
+  // 重定向到主页
+  window.location.href = 'web/index.html';
+};
+</script>
+
+</body>
+</html>

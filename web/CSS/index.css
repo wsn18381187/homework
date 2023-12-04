@@ -1,0 +1,156 @@
+@charset "utf-8";
+/* CSS Document */
+
+img{
+	display: block;
+}
+.s{
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+.w{
+	margin-left: 20px;
+	margin-right: 12px;
+	margin-top: 20px;
+}
+.z{
+	margin-left: 12px;
+	margin-right: 18px;
+	margin-top: 20px;
+}
+.x{
+	margin-left: 6px;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+#ctop{
+	background:white;
+	width: 867px;
+	height: 380px;
+	float:left;
+}
+#cl{
+	background:white;
+	width: 289px;
+	height: 520px;
+	float:left;
+}
+#cl ul{
+	color: #2B98DD;
+}
+#cl ul h1{
+	margin-left: 20px;
+	margin-top: 10px;
+	font-size: 18px;
+}
+#cl ul h1 a{
+	color:#2B98DD;
+	display: inline-block;
+	width: 100px;
+	text-decoration: none;	
+}
+#cl ul h1 a:hover{
+	font-size: 20px;
+	text-decoration: underline;
+}
+#cl p{
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: justify;
+	font-size: 16px;
+	margin-top: 10px
+}
+#cl p a{
+	color:#2B98DD;
+	display: inline-block;
+	width: 250px;
+	height: 80px;
+	text-decoration: none;
+}
+#cl p a:hover{
+	text-decoration: underline;
+}
+#cm{
+	background:white;
+	width: 289px;
+	height: 520px;
+	float:left;
+}
+#cm ul{
+	color: #2B98DD;
+}
+#cm ul h1{
+	margin-left: 20px;
+	margin-top: 10px;
+	font-size: 18px;
+}
+#cm ul h1 a{
+	color:#2B98DD;
+	display: inline-block;
+	width: 100px;
+	text-decoration: none;
+	
+}
+#cm ul h1 a:hover{
+	font-size: 20px;
+	text-decoration: underline;
+}
+#cm p{
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: justify;
+	font-size: 16px;
+	margin-top: 10px
+}
+#cm p a{
+	color:#2B98DD;
+	display: inline-block;
+	width: 250px;
+	height: 80px;
+	text-decoration: none;
+}
+#cm p a:hover{
+	text-decoration: underline;
+}
+#cr{
+	background:white;
+	width: 289px;
+	height: 520px;
+	float:left;
+}
+#cr ul{
+	color: #2B98DD;
+}
+#cr ul h1{
+	margin-left: 15px;
+	margin-top: 10px;
+	font-size: 18px;
+}
+#cr ul h1 a{
+	color:#2B98DD;
+	display: inline-block;
+	width: 100px;
+	text-decoration: none;	
+}
+#cr ul h1 a:hover{
+	font-size: 20px;
+	text-decoration: underline;
+}
+#cr p{
+	margin-left: 15px;
+	margin-right: 25px;
+	text-align: justify;
+	font-size: 16px;
+	margin-top: 10px
+}
+#cr p a{
+	color:#2B98DD;
+	display: inline-block;
+	width: 250px;
+	height: 80px;
+	text-decoration: none;
+}
+#cr p a:hover{
+	text-decoration: underline;
+}
